@@ -1,0 +1,16 @@
+body{ 
+    background-color: aqua;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.titulo1{
+    color: brown;
+}
+
+.titulo2{
+    color: rgb(42, 165, 52);
+}
